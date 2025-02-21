@@ -25,7 +25,7 @@ html {
 }
 
 .main-title {
-    padding-top: 18%;
+    padding-top: 10%;
 }
 
 
@@ -53,7 +53,7 @@ html {
 
 .message1 {
 
-    background-color: #DFECC3;
+
     font-style: italic;
 
 }
@@ -61,17 +61,17 @@ html {
 
 .message2 {
     font-style: italic;
-    background-color: #DFECC3;
+    
 }
 
 .message3 {
     font-style: italic;
-    background-color: #DFECC3;
+
 }
 
 .message4 {
     font-style: italic;
-    background-color: #DFECC3;
+   
 }
 .subtitle {
     font-style: italic;
@@ -80,7 +80,7 @@ html {
 .teamPhoto img {
     max-width: 100%;
     height: auto;
-    padding: 0;
+    padding-top: 50px;
     margin: 0 0 7px 0;
     border-radius: 8px;
 }
